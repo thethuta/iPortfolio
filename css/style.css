@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.bg-midnight {
+    background: hsl(0, 0%, 0%);
+}
+.text-purple {
+    background-image: linear-gradient(45deg,rgb(225, 146, 236),rgb(105, 105, 236));
+    color: transparent;
+    background-clip: text;
+}
+.text-purple-reverse {
+    background-image: linear-gradient(45deg,rgb(105, 105, 236),rgb(225, 146, 236));
+    color: transparent;
+    background-clip: text;
+}
+.text-linkedin {
+    color: #0077B5;
+}
+.text-github {
+    color: #ffffff;
+}
+.text-telegram {
+    color: #229ED9;
+}
+.text-viber {
+    color: #7360f2;
+}
+.fs-7 {
+    font-size: 0.87em;
+}
